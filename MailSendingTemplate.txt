@@ -1,0 +1,19 @@
+Hi  {FNAME},
+ </br>
+
+Welcome to Ashok IT family. Your registration is almost completed.
+please use below details to unlock your account. </br>
+</br>
+
+
+Temporary Password :{TEMP-PWD} </br>
+</br>
+
+
+<a href='http://localhost:9090/unlockAcc?email={EMAIL}'> 
+
+Click Here To Unlock Your Account </a> </br>
+</br>
+
+Thanks & Regards, </br>
+ASHOK IT. </br>
